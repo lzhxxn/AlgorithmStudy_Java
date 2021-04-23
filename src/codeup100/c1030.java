@@ -13,3 +13,7 @@ public class c1030 {
 		System.out.println(bigDecimal);
 	}
 }
+
+// %f 실수(float)
+// %d 정수(integer)
+// %s 문자열(String)
