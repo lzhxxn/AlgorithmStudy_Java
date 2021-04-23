@@ -9,6 +9,6 @@ public class c1028 {
 		long num = sc.nextLong();
 		sc.close();
 		
-		System.out.println(num);
+		System.out.println(num); 
 	}
 }
