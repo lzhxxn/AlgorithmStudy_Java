@@ -12,3 +12,4 @@ public class c1035 {
 		System.out.printf("%o", num);
 	}
 }
+ 
