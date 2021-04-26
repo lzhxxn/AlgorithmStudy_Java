@@ -20,6 +20,8 @@ package codeup;
 import java.util.Scanner;
 
 public class c1038 {
+	public static void main(String[] args){
+		
 	Scanner sc = new Scanner(System.in); // Scanner 객체 생성
 	
 	// 범위 : -1073741824 ~ 1073741824 
@@ -42,8 +44,8 @@ public class c1038 {
 			long sum = num1 + num2;
 			System.out.println(sum);
 		}
-	}
-   }
+	  }
+     }
 }
 		
 	
