@@ -3,6 +3,7 @@ package codeup;
 import java.util.Scanner;
 
 public class c1038 {
+	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
 		double a = sc.nextInt();
