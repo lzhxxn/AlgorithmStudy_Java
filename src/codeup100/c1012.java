@@ -8,4 +8,4 @@ public class c1012 {
         System.out.printf("%f", a);//입력받은 실수 출력
 		sc.close();//입력 종료 후 Scanner 닫기
     }
-}
+} 
