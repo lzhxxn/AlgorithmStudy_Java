@@ -3,4 +3,4 @@ public class c1003{
 	System.out.println("Hello");
     System.out.println("World");
 	}
-}
+} 
